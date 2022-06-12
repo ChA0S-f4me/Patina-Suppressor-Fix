@@ -1,5 +1,7 @@
 # Patina (Suppressor Fix)
 
+PatinaMC fork that brings back suppressor
+
 [Official Patina repository](https://github.com/foss-mc/Patina)
 
 [Fix by LIMPIX31](https://gist.github.com/LIMPIX31/f1b5a26f2e77542145ebfc4b63efe471)
